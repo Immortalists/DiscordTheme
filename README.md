@@ -1,7 +1,13 @@
 # DiscordTheme
 Hello World
 
+<body>
 <div class="row">
+  <style>
+    .column {
+     text-align: center;
+    }
+  </style>
   <div class="column">
     <h1> Base.css </h1>
     <a href="https://immortalists.github.io/DiscordTheme/base.css">
@@ -15,3 +21,4 @@ Hello World
     </a>
   </div>
 </div>
+</body>
